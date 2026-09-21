@@ -105,7 +105,7 @@ CREATE TABLE public.user_profiles (
 
 ## Support
 
-For support or any queries, email jainnaman2774@gmail.com 
+For support or any queries, email soniaaryan2020@gmail.com
 
 
     
